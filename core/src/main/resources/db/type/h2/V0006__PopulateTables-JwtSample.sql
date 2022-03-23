@@ -1,0 +1,3 @@
+INSERT INTO EMPLOYEE (id, modificationCounter, employeeid, name, surname, age, email) VALUES (1, 1, 1, 'Stefano','Rossini',40,'stefano.rossini@capgemini.com');
+INSERT INTO EMPLOYEE (id, modificationCounter, employeeid, name, surname, age, email) VALUES (2, 2, 2, 'Angelo','Muresu',40, 'angelo.muresu@capgemini.com');
+INSERT INTO EMPLOYEE (id, modificationCounter, employeeid, name, surname, age, email) VALUES (3, 3, 3, 'Jaime','Gonzalez',40, 'jaime.diaz-gonzalez@capgemini.com');
